@@ -9,5 +9,5 @@ The purpose of this analysis is to provide information about temperature trends 
 
 - Finally the temperarutes for June and December don't vary all that much, so an assumption that the weather in Oahu is mostly stable year-around and if the temperatures for these two months remain stable,there is a higher chance of runnging the surf shop bussiness.
 
-Summary
+# Summary
 Based on the analysis,the Surf & Ice Cream Shop business will be successfull.
